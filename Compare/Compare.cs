@@ -55,7 +55,7 @@ namespace Compare
             else
             {
                 Console.WriteLine("Файлы различаются.");
-                CompareAndWriteDifferences(file1Bytes, file2Bytes, outputFilePath);
+                CompareAndWriteDifferences(file1Bytes, file2Bytes, outputFilePath );
             }
         }
 
