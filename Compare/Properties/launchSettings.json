@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Compare": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\TestData\\TestData\\Accaunting\\3.0.129.19\\1Cv8.cf\" \r\nD:\\TestData\\TestData\\Accaunting\\3.0.129.13\\1Cv8.cf\r\n\"D:\\Практика\\Test1.txt\" "
+    }
+  }
+}
